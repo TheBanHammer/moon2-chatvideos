@@ -1,5 +1,7 @@
 # MOONMOON ChatVideo Bot
 
+[![Build status](https://dev.azure.com/thebanhammer/moon2-chatvideos/_apis/build/status/DotNet%20Automated%20CI)](https://dev.azure.com/thebanhammer/moon2-chatvideos/_build/latest?definitionId=3)
+
 | Command     | Permission | Parameter | Description |
 |-------------|------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | !cvdisable  | Moderator  |           | Disables all bot checks. |
